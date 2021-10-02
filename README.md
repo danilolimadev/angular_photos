@@ -1,27 +1,37 @@
-# Photos
+# Angular Photos
+Projeto de estudo com base no curso The Modern Angular Bootcamp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+## 🚀 Começando
 
-## Development server
+Clone ou baixe o projeto.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### 📋 Pré-requisitos
 
-## Code scaffolding
+* Pasta node_modules;
+* Obter api de cliente em unsplash.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 🔧 Instalação
 
-## Build
+* A pasta node_modules pode ser copiada de algum outro projeto angular já criado anteriormente;
+* O client id pode ser obtido no site: https://unsplash.com/developers. Após obtido coloque no campo Authorization no arquivo photos.service.ts
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## ⚙️ Executando os testes
 
-## Running unit tests
+Após feita a instalação execute o comando
+```
+ng serve
+```
+Para verificar o funcionamento acesse a url: https://localhost:4200
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🛠️ Construído com
 
-## Running end-to-end tests
+* [Angular](https://angular.io/) - O framework web usado
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## 🎁 Expressões de gratidão
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* Um dos projetos iniciais de meu estudo com esse novo framework web.
+
+
+---
+⌨️ com ❤️ por [Danilo Lima](https://github.com/danilolimadev/danilolimadev) 😊
